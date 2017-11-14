@@ -3,3 +3,4 @@ function Scooter(year, color, model){
   this.age = age
   this.model = model
 }
+  let samson = new Scooter(2015, "red", "swoosh")
